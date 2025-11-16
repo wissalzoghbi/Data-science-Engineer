@@ -3,7 +3,7 @@ Data Science & Machine Learning Engineer | NLP, Audio, Computer Vision, and End-
 
 📍 Tunisia  
 📧 zoghbiwissal@gmail.com  
-🔗 LinkedIn: linkedin.com/in/wissal-zoghbi  
+🔗 LinkedIn: [linkedin.com/in/wissal-zoghbi]  
 
 ---
 
