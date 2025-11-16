@@ -13,7 +13,7 @@ Data Science & Machine Learning Engineer | NLP, Audio, Computer Vision, and End-
 |--------|-------------|------|
 | [Tunisian Dialect Speech Emotion](link-to-repo) | Classify emotions from Tunisian dialect audio using deep learning | Python, PyTorch, Librosa |
 | [Churn Forecast ML](https://github.com/wissalzoghbi/churn-forecast-ml)) | Predict customer churn using tabular data & ML pipeline | Python, Scikit-learn, Streamlit |
-| [Data Science Web App]([link-to-repo](https://github.com/wissalzoghbi/Data-science-web-app)) | End-to-end deployed data app | Python, Streamlit, FastAPI |
+| [Data Science Web App](https://github.com/wissalzoghbi/Data-science-web-app)| End-to-end deployed data app | Python, Streamlit, FastAPI |
 
 ---
 
